@@ -6,7 +6,7 @@ This project purpose is to build an interactive dashboard using Leaflet.js to ga
 Data Source: 
 ![Earthquakes GeoJSON data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) , 
 ![Major Earthquakes GeoJSON data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson), 
-![Tectonic Plate GeoJSON data], (https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
+![Tectonic Plate GeoJSON data](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json), 
 ![Mapbox API Key generated from Mapbox site](https://mapbox.com)
 
 ## Deliverable: 
